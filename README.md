@@ -21,3 +21,8 @@ Install the required libraries using the following command:
 pip install numpy pandas keras matplotlib
 ```
 
+Clone this Repo:
+
+```bash
+!git clone https://github.com/PraveenLiyanage/Neural-Machine-Translation-NMT.git
+```
